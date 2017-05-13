@@ -1,7 +1,7 @@
 # bigdata
 为大数据作业展示辅助。
 整个项目基于python2.7编写需要安装pip
-‘’‘
+'''
 sudo pip install recsys
 cd bigdatawork
 python handledingzhu.py
